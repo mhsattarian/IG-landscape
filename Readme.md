@@ -15,3 +15,7 @@ then, click on `Load extension` button and choose the address of extension root 
 ### Chrome extension?
 
 Go checkout my presentation on Developing Chrome Extensions, [here on ludus](https://app.ludus.one/c8b8a6b8-5807-4282-bfaa-ae044205aace).
+
+## Acknowledgement
+
+The idea belongs to Mahdi Ghorbanian.
